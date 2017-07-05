@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Movie DB</string>
+
+    <string name="most_popular">Most Popular</string>
+    <string name="movie_detail">Movie Detail</string>
+
+    <string name="release_date">Release Date</string>
+    <string name="duration">Duration</string>
+    <string name="genre">Genre</string>
+    <string name="homepage">Homepage</string>
+    <string name="overview">Overview</string>
+    <string name="trailers">Trailers</string>
+    <string name="reviews">Reviews</string>
+    <string name="title">Title</string>
+
+</resources>
