@@ -1,5 +1,5 @@
 # Android-MovieDB
-Android App to show Movie Database 
+Android app to show discover movie 
 API from https://www.themoviedb.org/
 
 ![alt tag](https://3.bp.blogspot.com/-R76eRaQmo3g/WVyC0_Yb_cI/AAAAAAAAJVs/38Rw1TKyGaQnA-uWyEQcMmmwPmH5liTRQCLcBGAs/s400/Screenshot_1499074164.png "Most Popular")
